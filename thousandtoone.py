@@ -2,9 +2,9 @@
 import random
 
 #INTRODUCTION
-print ("=== HUNDRED TO ONE ===")
+print ("=== THOUSAND TO ONE ===")
 print()
-print("welcome to HUNDRED TO ONE: the number guessing game where YOU, yes, YOU will be trying to guess the number selected from 0 to ONE HUNDRED!")
+print("welcome to THOUSAND TO ONE: the number guessing game where YOU will be trying to guess the number selected from ZERO to ONE THOUSAND!")
 print()
 
 #INITIALIZATION
